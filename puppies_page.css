@@ -1,0 +1,29 @@
+html{
+    height: 100%;
+}
+body{
+    font-family: Arial, serif;
+    background: url(https://s.abcnews.com/images/Lifestyle/puppy-ht-3-er-170907_4x3_992.jpg);
+    background-position: 60% 0;    
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+}
+h4{
+    padding-bottom: 1.5%;
+}
+hr{
+    width: 300px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: #f8f8f8;
+    border-bottom: 1px rgba(0,0,0,0.2) solid;
+}
+#content{
+    margin-top: 0%;
+    text-align: center;
+    padding-top: 25%;
+    /* text-shadow: 0px 4px 3px red; */
+    text-shadow: 0 1px 1px rgba(0,0,0,0.8);
+    
+}
